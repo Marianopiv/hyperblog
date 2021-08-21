@@ -1,0 +1,25 @@
+[33mcommit d6ab60cd1b3ff3c9e2b01063bc25f15088fa484b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Mariano Pividori <marianopividori93@gmail.com>
+Date:   Thu Aug 19 00:08:39 2021 -0300
+
+    Agregamos el cargo de la persona
+    
+    La persona es Freddy
+
+[33mcommit 958dfe52a182d08fc17bc177949f0c130f3b6d93[m
+Author: Mariano Pividori <marianopividori93@gmail.com>
+Date:   Thu Aug 19 00:05:14 2021 -0300
+
+    Agregamos un cambio a su estatura
+
+[33mcommit d2b9588bab9a3a1e0ec3153535f68be1424982be[m
+Author: Mariano Pividori <marianopividori93@gmail.com>
+Date:   Wed Aug 18 23:58:08 2021 -0300
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+[33mcommit dd837414f606d943c05d78709ee93deb1e764f97[m
+Author: Marianopiv <marianopividori93@gmail.com>
+Date:   Wed Aug 18 23:43:14 2021 -0300
+
+    Este es el primer commit de este archivo
