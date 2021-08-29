@@ -10,4 +10,5 @@ Niñito.
 - Trucos muy locos del profesor.
 - Creado por el increíble Platzi team.
 - Incluye ejemplos en windows, linux y mac.
+-Disponible para todas las edades.
 Como amable recordatorio, este** Readme es un chiste.** Copate y anda al curso https://platzi.com/home
