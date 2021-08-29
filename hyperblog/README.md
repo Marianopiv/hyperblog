@@ -8,5 +8,6 @@ Niñito.
 - El curso de trabajo en Github.
 - EL verdadero amor por las buenas practicas.
 - Trucos muy locos del profesor.
+- Creado por el increíble Platzi team.
 
 Como amable recordatorio, este** Readme es un chiste.** Copate y anda al curso https://platzi.com/home
